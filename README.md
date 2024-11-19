@@ -1,4 +1,4 @@
-## Olá eu sou Johnathan Herbert! ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=johnathanherbert.visitor-badge&left_text=Visitantes)
+## Olá eu sou Johnathan Herbert! ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=johnathanherbert.visitor-badge&left_text=Visitas)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnathanherbert&theme=transparent&show_icons=true)
