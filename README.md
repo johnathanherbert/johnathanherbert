@@ -18,12 +18,6 @@
 </div>
 
 <br/>
-<hr/>
-
-![snake gif](https://github.com/johnathanherbert/johnathanherbert/blob/output/github-contribution-grid-snake.svg)
-
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
